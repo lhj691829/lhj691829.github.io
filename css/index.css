@@ -1,0 +1,12 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+div{
+    width:200px;
+    height:200px;
+    background:#090;
+}
+h1{
+    color:#fff;
+}
